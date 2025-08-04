@@ -10,11 +10,11 @@
 ## 💫 About Me
 
 - 🎓 BCA Graduate | Web Development @ NavGurukul  
-- 🔭 Currently working on **Task Manager** & React projects  
+- 🔭 Currently working on React & Node.js projects  
 - 🌱 Learning Full Stack Development (MERN)  
 - 💬 Ask me about HTML, CSS, JavaScript, React, Bootstrap, Node.js  
 - 🏔️ I love exploring **ice mountains** & **waterfalls**  
-- 📫 Reach me at: **sonukathat0000@gmail.com**
+- 📫 Reach me at: **sonukathat83@gmail.com**
 
 ---
 
@@ -40,9 +40,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:sonukathat0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/sonukathat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/sonu-kathat-6697ba2b8/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sonukathat83@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
