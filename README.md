@@ -2,7 +2,7 @@
 <p align="center">A passionate Frontend Developer from India 🇮🇳</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EE6E6&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+Node.js+Enthusiast;102%2B+GitHub+Contributions;Bootstrap+Lover;Loves+Mountains+%26+Waterfalls" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EE6E6&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+Node.js+Enthusiast;102%2B+GitHub+Contributions;Loves+Mountains+%26+Waterfalls" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🚀 My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,c,cs,git,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,c,cs,git,vscode&perline=8" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS%20Framework-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Canva-blueviolet?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
