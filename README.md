@@ -12,7 +12,7 @@
 - 🎓 BCA Graduate | Web Development @ NavGurukul  
 - 🔭 Currently working on React & Node.js projects  
 - 🌱 Learning Full Stack Development (MERN)  
-- 💬 Ask me about HTML, CSS, JavaScript, React, Bootstrap, Node.js  
+- 💬 Ask me about HTML, CSS, JavaScript, React, Tailwind, Node.js  
 - 🏔️ I love exploring **ice mountains** & **waterfalls**  
 - 📫 Reach me at: **sonukathat83@gmail.com**
 
