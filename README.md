@@ -2,7 +2,7 @@
 <p align="center">A passionate Frontend Developer from India 🇮🇳</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EE6E6&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+Node.js+Enthusiast;300%2B+GitHub+Contributions;Loves+Mountains+%26+Waterfalls" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EE6E6&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+Node.js+Enthusiast;400%2B+GitHub+Contributions;Loves+Mountains+%26+Waterfalls" alt="Typing SVG" />
 </p>
 
 ---
