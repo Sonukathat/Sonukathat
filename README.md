@@ -21,7 +21,7 @@
 ## 🚀 My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,c,cs,git,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,c,cs,git,vscode&perline=8" />
 </p>
 
 ---
