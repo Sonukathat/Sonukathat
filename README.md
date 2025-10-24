@@ -2,7 +2,7 @@
 <p align="center">A passionate MERN Stack Developer from India 🇮🇳</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EE6E6&center=true&vCenter=true&width=480&lines=MERN+Developer;React+%7C+Node.js+Enthusiast;500%2B+GitHub+Contributions;Loves+Mountains+%26+Waterfalls" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EE6E6&center=true&vCenter=true&width=480&lines=MERN+Stack+Developer;React+%7C+Node.js+Enthusiast;500%2B+GitHub+Contributions;Loves+Mountains+%26+Waterfalls" alt="Typing SVG" />
 </p>
 
 ---
